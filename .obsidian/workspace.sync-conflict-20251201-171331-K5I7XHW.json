@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "5b862c0a5e9fd5e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "dac525fec4e2c54b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3d5b6eb5036bad5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas/FPGA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FPGA"
+            }
+          },
+          {
+            "id": "7d507c75d9f8b7a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Testes de Primalidade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Testes de Primalidade"
+            }
+          },
+          {
+            "id": "a3f6cfec0121d9f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Memória Cache.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Memória Cache"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4ffb3e93464197f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e42bbd399e1507ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d204a25eee779628",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "960e3dd592fe3028",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7c87061decb9debe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "651ff25a75b875e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "85bf7ded4f3fdfd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9cd2f1652435e63",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6784154a54ad8b8e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "88785468f98e0ff5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2f57d81bcc0b65c3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "a3f6cfec0121d9f3",
+  "lastOpenFiles": [
+    "Notas/Cache Blocking.md",
+    "Notas/Memória Cache.md",
+    "Notas/Untitled 1.md",
+    "Notas/Testes de Primalidade.md",
+    "Notas/FPGA.md",
+    "Notas/Untitled 2.md",
+    "Conteudo/Organização e arquitetura de software/DEC7123_Modulo_18_Memoria_cache_1.pdf",
+    "Notas/Circuito Digital.md",
+    "Notas/Untitled.md",
+    "Conteudo/Organização e arquitetura de software/DEC7123_Modulo_16_Hierarquia_Memorias.pdf",
+    "Conteudo/Organização e arquitetura de software/DEC7123_Modulo_19_Memoria_cache_2.pdf",
+    "assets/Attachments/Pasted image 20251113154845.png",
+    "assets/Attachments/Pasted image 20251113170329.png",
+    "Conteudo/Organização e arquitetura de software/DEC7123_Modulo_20_Memoria_cache_3.pdf",
+    "assets/Attachments/Pasted image 20251113165834.png",
+    "assets/Attachments/Pasted image 20251113154831.png",
+    "assets/Attachments",
+    "PDFs/Pong P. Chu - Embedded SoPC Design with Nios II Processor and Verilog Examples (2012).pdf",
+    "Notas/Untitled Kanban 1.md",
+    "Notas/Untitled.base",
+    "Notas/Untitled Kanban.md",
+    "Notas/PLB.md",
+    "Organização/Todo.md",
+    "Organização",
+    "Notas/~syncthing~Testes de Primalidade.md.tmp",
+    "Notas/HDL.md",
+    "PDFs/Orientações antiplágio e boas práticas em pesquisa.pdf",
+    "assets/Templates/Default.md",
+    "Untitled.md",
+    "Untitled 1.md"
+  ]
+}

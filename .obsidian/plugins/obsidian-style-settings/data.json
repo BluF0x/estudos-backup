@@ -1,0 +1,23 @@
+{
+  "entry-point@@smooth-mode": false,
+  "entry-point@@minimal-mode": false,
+  "entry-point@@minimal-sidebar": "sidebar-show",
+  "entry-point@@color-scheme-selector": "color-scheme-default",
+  "retroma-obsidian-theme@@theme-variant": "theme-variant-1",
+  "retroma-obsidian-theme@@window-border-radius": "12px",
+  "retroma-obsidian-theme@@interactive-accent@@light": "#FFFBB7",
+  "retroma-obsidian-theme@@rotation-1": 15,
+  "retroma-obsidian-theme@@rotation-2": 345,
+  "retroma-obsidian-theme@@interactive-accent@@dark": "#9467B9",
+  "ITS@@its-d": false,
+  "ITS@@notion": false,
+  "ITS@@mini": false,
+  "ITS@@nord": false,
+  "ITS@@drwn": false,
+  "ITS@@t-d": false,
+  "ITS@@s-d": false,
+  "ITS@@slrvb-g": false,
+  "ITS@@slrvb-b": false,
+  "ITS@@accent-color": false,
+  "ITS@@select": "none"
+}
