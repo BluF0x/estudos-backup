@@ -1,0 +1,28 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "png",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "Format #1",
+      "format": "biblatex",
+      "template": "",
+      "command": "autocite"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "Imports",
+      "outputPathTemplate": "Notas/Refs/{{citekey}}.md",
+      "imageOutputPathTemplate": "Notas/Refs/{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "assets/Templates/Separate Highlights with headings.md"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": false,
+  "whichNotesToOpenAfterImport": "first-imported-note",
+  "pdfExportImageOCR": false
+}

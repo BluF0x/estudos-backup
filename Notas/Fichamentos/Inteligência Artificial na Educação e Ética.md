@@ -2,6 +2,8 @@
 aliases:
 creation: 2025-11-24T15:21:00
 fontes:
+tags:
+  - fichamento
 ---
 # Fichamento: Inteligência Artificial na Educação e Ética
 

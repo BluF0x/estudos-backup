@@ -1,0 +1,20 @@
+views:
+  - type: table
+    name: View
+    filters:
+      and:
+        - file.folder == "Notas"
+    groupBy:
+      property: date
+      direction: ASC
+    order:
+      - file.name
+      - tags
+      - fontes
+      - file.backlinks
+      - creation
+    sort:
+      - property: tags
+        direction: ASC
+  - type: table
+    name: View 2

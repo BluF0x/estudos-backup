@@ -1,1 +1,2 @@
 Repositório para armazenamento notas de estudo (vault de obsidian.md)
+

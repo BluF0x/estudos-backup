@@ -1,0 +1,21 @@
+{
+  "apiKey": "f7bcb251-b768-4e19-a25a-95bafc80843c",
+  "apiKeySource": "trial",
+  "useLocalInference": false,
+  "localInferenceUrl": "http://localhost:8502",
+  "enableInlineEditorMode": true,
+  "enableInlineMathWidgets": true,
+  "enableBlockMathWidgets": true,
+  "hideRenderedInlineMath": true,
+  "hideRenderedBlockMath": true,
+  "immediateInlineUpdate": true,
+  "arrowKeyNavigation": true,
+  "editOnlyAtCursor": false,
+  "scanOtherApps": true,
+  "shorthandPreset": false,
+  "shorthands": "",
+  "shorthandsInSource": "auto",
+  "quickLatexImportOffered": false,
+  "welcomeShown": true,
+  "helpTipShown": false
+}

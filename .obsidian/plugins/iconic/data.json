@@ -1,0 +1,156 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": true,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": true,
+  "showMarkdownTabIcons": true,
+  "showTitleIcons": true,
+  "showTagPillIcons": false,
+  "showMenuActions": true,
+  "showSuggestionIcons": false,
+  "showQuickSwitcherIcons": true,
+  "showMoveFileIcons": true,
+  "showItemName": "desktop",
+  "useSearchKeywords": "on",
+  "maxSearchResults": 100,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "maxBackups": 2,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "Notas": {
+      "icon": "lucide-pen-box"
+    },
+    "Notas/Cache Blocking.md": {
+      "icon": "lucide-notebook-pen"
+    },
+    "Notas/Circuito Digital.md": {
+      "icon": "lucide-notebook-pen"
+    },
+    "Notas/Diarias": {
+      "icon": "lucide-calendar-clock"
+    },
+    "Notas/Engenharia.md": {
+      "icon": "lucide-notebook-pen"
+    },
+    "Notas/FPGA.md": {
+      "icon": "lucide-notebook-pen"
+    },
+    "Notas/Fichamentos": {
+      "icon": "lucide-notebook-text"
+    },
+    "Notas/Fichamentos/Engenharia de software moderna.md": {
+      "icon": "lucide-notebook-text"
+    },
+    "Notas/Fichamentos/Inteligência Artificial na Educação e Ética.md": {
+      "icon": "lucide-notebook-text"
+    },
+    "Notas/HDL.md": {
+      "icon": "lucide-notebook-pen"
+    },
+    "Notas/Leis de Newton.md": {
+      "icon": "lucide-notebook-pen"
+    },
+    "Notas/Memória Cache.md": {
+      "icon": "lucide-notebook-pen"
+    },
+    "Notas/Mêcanica Newtoniana.md": {
+      "icon": "lucide-notebook-pen"
+    },
+    "Notas/Notas sobre o artigo Inteligência Artificial na Educação e Ética.md": {
+      "icon": "lucide-notebook-pen"
+    },
+    "Notas/Notação assintótica para funções.md": {
+      "icon": "lucide-notebook-pen"
+    },
+    "Notas/Notes Overview.base": {
+      "icon": "lucide-database"
+    },
+    "Notas/PLB.md": {
+      "icon": "lucide-notebook-pen"
+    },
+    "Notas/Propriedades de projeto de software.md": {
+      "icon": "lucide-notebook-pen"
+    },
+    "Notas/Refs": {
+      "icon": "lucide-arrow-big-left"
+    },
+    "Notas/Revisão": {
+      "icon": "lucide-refresh-ccw-dot"
+    },
+    "Notas/Testes de Primalidade.md": {
+      "icon": "lucide-notebook-pen"
+    },
+    "Notas/acoplamento.md": {
+      "icon": "lucide-notebook-pen"
+    },
+    "Notas/coesão.md": {
+      "icon": "lucide-notebook-pen"
+    },
+    "Notas/integridade conceitual.md": {
+      "icon": "lucide-notebook-pen"
+    },
+    "Notas/interface.md": {
+      "icon": "lucide-notebook-pen"
+    },
+    "Notas/ocultamento de informação.md": {
+      "icon": "lucide-notebook-pen"
+    },
+    "README.md": {
+      "icon": "lucide-book-alert"
+    },
+    "Source": {
+      "icon": "lucide-file-digit"
+    },
+    "Trabalhos": {
+      "icon": "lucide-clipboard-check"
+    },
+    "assets": {
+      "icon": "lucide-images"
+    },
+    "assets/Templates/Default.md": {
+      "icon": "lucide-notebook-pen"
+    },
+    "pdfs": {
+      "icon": "lucide-book-open-text"
+    },
+    "pdfs/Hardware": {
+      "icon": "lucide-cog"
+    },
+    "pdfs/Matematica": {
+      "icon": "lucide-chart-line"
+    },
+    "pdfs/Microprocessadores": {
+      "icon": "lucide-cpu"
+    },
+    "pdfs/Organização e arquitetura de software": {
+      "icon": "lucide-folder-bookmark"
+    },
+    "pdfs/Outros": {
+      "icon": "question-mark-glyph"
+    },
+    "pdfs/Papers": {
+      "icon": "lucide-file"
+    },
+    "pdfs/Software": {
+      "icon": "lucide-laptop"
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [],
+  "folderRules": []
+}
