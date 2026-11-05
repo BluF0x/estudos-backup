@@ -6,6 +6,8 @@ aliases:
 creation: 2026-10-28T17:19:00
 fontes:
   - "[Valente - 2020 - Engenharia de Software Moderna.pdf](obsidian://zotflow?type=open-attachment&libraryID=22438711&key=ASZ6AFIR)"
+type:
+  - nota
 ---
 # Overview
 

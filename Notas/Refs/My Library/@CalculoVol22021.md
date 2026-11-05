@@ -4,7 +4,7 @@ zotero-key: QUZQYG56
 library-id: 22438711
 item-version: 27
 item-tree: 968d001e
-library-version: 68
+library-version: 77
 citationKey: CalculoVol22021
 title: "Cálculo vol. 2: ferramenta digital"
 itemType: book

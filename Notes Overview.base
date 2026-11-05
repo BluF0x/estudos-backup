@@ -1,11 +1,13 @@
+formulas:
+  Untitled: ""
 views:
   - type: table
-    name: View
+    name: Notas
     filters:
       and:
         - file.folder == "Notas"
     groupBy:
-      property: date
+      property: type
       direction: ASC
     order:
       - file.name
@@ -16,5 +18,11 @@ views:
     sort:
       - property: tags
         direction: ASC
+    columnSize:
+      file.name: 260
+      note.fontes: 232
   - type: table
-    name: View 2
+    name: Maps
+    filters:
+      and:
+        - file.inFolder("Notas/Mapas")

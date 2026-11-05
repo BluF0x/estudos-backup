@@ -4,11 +4,12 @@ tags:
   - eng_software
 aliases:
 creation: 2026-10-28T13:04:00
+type:
+  - mapa
 ---
 # Overview
 
 Planejar um software é essencial, especialmente quando há vários desenvolvedores envolvidos. 
-
 
 # Princípios
 
@@ -24,10 +25,11 @@ Planejar um software é essencial, especialmente quando há vários desenvolvedo
 
 ![[coesão#Overview]]
 
+
+## Acoplamento
+
+![[acoplamento#Overview]]
 # SOLID
-
-
-
 
 
 # Fontes 

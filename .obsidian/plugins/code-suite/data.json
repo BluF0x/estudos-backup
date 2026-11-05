@@ -1,7 +1,7 @@
 {
-  "theme": "gruvbox-dark-hard",
-  "autoTheme": false,
-  "darkAutoTheme": "gruvbox-dark-hard",
+  "theme": "gruvbox-dark-medium",
+  "autoTheme": true,
+  "darkAutoTheme": "gruvbox-dark-medium",
   "lightAutoTheme": "github-light",
   "codeFontSize": null,
   "styleInlineCode": true,

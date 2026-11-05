@@ -5,6 +5,8 @@ aliases:
   - Field Programmable Gate-Array
 creation: 2025-11-05T16:20:00
 fontes:
+type:
+  - nota
 ---
 Uma FPGA (Field Programmable Gate-Array) é um *chip* ou *Circuito Integrado* (CI) pode ser programado usando uma [[HDL]]. É composto de matrizes de [[PLB|Programmable Logic Block]]s  com conexões flexíveis configuráveis e elementos de memória, possibilitando alta eficiência e flexibilidade. 
 

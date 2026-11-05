@@ -5,6 +5,8 @@ tags:
   - software
 aliases:
 creation: 2026-03-20T14:06:00
+type:
+  - nota
 ---
 # Overview
 

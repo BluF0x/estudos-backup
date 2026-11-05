@@ -1,8 +1,10 @@
 ---
 tags:
 aliases:
-creation:
+creation: "{{date}}"
 fontes:
+type:
+  - nota
 ---
 # Overview
 

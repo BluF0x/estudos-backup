@@ -12,7 +12,7 @@
     "maxCacheSizeMB": 500,
     "librarySourceNoteTemplatePath": "assets/Templates/ZotFlow template",
     "sourceNoteFolder": "",
-    "librarySourceNotePathTemplate": "Source/{{libraryName}}/@{{citationKey | default: title | default: key}}",
+    "librarySourceNotePathTemplate": "Notas/Refs/{{libraryName}}/{{citationKey | default: title | default: key}}",
     "localSourceNoteTemplatePath": "",
     "localSourceNoteFolder": "",
     "localSidecarFolder": "",
@@ -55,21 +55,27 @@
       "foreground": "#d4be98",
       "id": "obsidian",
       "label": "Obsidian"
+    },
+    {
+      "id": "custom1",
+      "label": "test",
+      "background": "#26211C",
+      "foreground": "#D7B393"
     }
   ],
   "viewStates": {
     "pdfs/Software/Engenharia de Software Moderna.pdf": {
       "secondaryViewState": null,
       "primaryViewState": {
-        "pageIndex": 2,
-        "scale": 130,
-        "top": 529,
-        "left": -10,
+        "pageIndex": 10,
+        "scale": "page-width",
+        "top": 684,
+        "left": -21,
         "scrollMode": 0,
         "spreadMode": 0,
         "lastReadAloudPosition": null
       },
-      "darkTheme": "sepia"
+      "darkTheme": "obsidian"
     },
     "pdfs/Software/Engenharia de Software Moderna - Marco Tulio Valente.epub": {
       "secondaryViewState": null,
@@ -95,38 +101,26 @@
       "primaryViewState": {
         "pageIndex": 0,
         "scale": "page-width",
-        "top": 493,
-        "left": -9,
+        "top": 811,
+        "left": -24,
         "scrollMode": 0,
         "spreadMode": 0,
         "lastReadAloudPosition": null
       }
     },
-    "pdfs/Matematica/Cálculo Volume 2 -- James Stewart -- 2, 7, 2013 -- CENGAGE Learning -- isbn13 9788522114634 -- ad6eb5a8d9646781afc8d381bfa368f4 -- Anna’s Archive.pdf": {
-      "secondaryViewState": null,
-      "primaryViewState": {
-        "pageIndex": 530,
-        "scale": "page-width",
-        "top": 800,
-        "left": 19,
-        "scrollMode": 0,
-        "spreadMode": 0,
-        "lastReadAloudPosition": null
-      },
-      "darkTheme": "dark"
-    },
     "22438711:ASZ6AFIR": {
       "secondaryViewState": null,
       "primaryViewState": {
-        "pageIndex": 85,
-        "scale": 100,
-        "top": 208,
-        "left": -351,
+        "pageIndex": 86,
+        "scale": 110,
+        "top": 365,
+        "left": -160,
         "scrollMode": 0,
         "spreadMode": 0,
         "lastReadAloudPosition": null
       },
-      "lightTheme": "obsidian"
+      "lightTheme": "obsidian",
+      "darkTheme": "custom1"
     },
     "22438711:SCXDEQYV": {
       "secondaryViewState": null,
@@ -158,6 +152,19 @@
         "spreadMode": 0,
         "lastReadAloudPosition": null
       }
+    },
+    "pdfs/Matematica/Cálculo Volume 2 - James Stewart.pdf": {
+      "secondaryViewState": null,
+      "primaryViewState": {
+        "pageIndex": 530,
+        "scale": "page-width",
+        "top": 800,
+        "left": 21,
+        "scrollMode": 0,
+        "spreadMode": 0,
+        "lastReadAloudPosition": null
+      },
+      "darkTheme": "dark"
     }
   }
 }

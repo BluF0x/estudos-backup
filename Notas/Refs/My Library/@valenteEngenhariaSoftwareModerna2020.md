@@ -3,8 +3,8 @@ zotflow-locked: true
 zotero-key: MJB36T5H
 library-id: 22438711
 item-version: 6
-item-tree: 26ca5ca7
-library-version: 74
+item-tree: 5e60969c
+library-version: 77
 citationKey: valenteEngenhariaSoftwareModerna2020
 title: Engenharia de Software Moderna
 itemType: book
@@ -72,6 +72,33 @@ tags:
 > <!-- ZF_ANNO_END_S7MMIV34 -->
 > 
 ^S7MMIV34
+
+> [!zotflow-highlight-#ffd400] [Valente - 2020 - Engenharia de Software Moderna.pdf, p.91](obsidian://zotflow?type=open-annotation&libraryID=22438711&key=93CUTNLE)
+>  Código externo que chama métodos de uma classe é dito ser cliente da classe. Dizemos também que o conjunto de métodos públicos de uma classe define a sua interface. A definição da interface de uma classe é muito importante, pois ela constitui a sua parte visível.
+>
+> <!-- ZF_ANNO_BEG_93CUTNLE -->
+> 
+> <!-- ZF_ANNO_END_93CUTNLE -->
+> 
+^93CUTNLE
+
+> [!zotflow-highlight-#aaaaaa] [Valente - 2020 - Engenharia de Software Moderna.pdf, p.91](obsidian://zotflow?type=open-annotation&libraryID=22438711&key=M947WEHZ)
+>  5.3.1 Exemplo
+>
+> <!-- ZF_ANNO_BEG_M947WEHZ -->
+> 
+> <!-- ZF_ANNO_END_M947WEHZ -->
+> 
+^M947WEHZ
+
+> [!zotflow-highlight-#aaaaaa] [Valente - 2020 - Engenharia de Software Moderna.pdf, p.93](obsidian://zotflow?type=open-annotation&libraryID=22438711&key=NRVTH3UQ)
+>  5.3.2 Getters e Setters
+>
+> <!-- ZF_ANNO_BEG_NRVTH3UQ -->
+> 
+> <!-- ZF_ANNO_END_NRVTH3UQ -->
+> 
+^NRVTH3UQ
 
 > [!zotflow-highlight-#ffd400] [Valente - 2020 - Engenharia de Software Moderna.pdf, p.94](obsidian://zotflow?type=open-annotation&libraryID=22438711&key=G38Z5W45)
 >  getters e setters não são uma garantia de que estamos ocultando dados da classe, como mencionado em alguns livros e discussões pela Internet. Pelo contrário, eles são um instrumento de liberação de informação (information leakage).

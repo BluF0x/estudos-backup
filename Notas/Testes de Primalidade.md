@@ -5,6 +5,8 @@ tags:
   - matemática
 aliases:
 creation: 2025-11-05T17:03:00
+type:
+  - nota
 ---
 # Visão Geral 
 

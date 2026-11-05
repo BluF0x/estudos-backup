@@ -3,6 +3,8 @@ tags:
   - fisica
 aliases:
 creation: 2026-04-18T18:01:00
+type:
+  - nota
 ---
 
 

@@ -41,9 +41,6 @@
     "Notas/Diarias": {
       "icon": "lucide-calendar-clock"
     },
-    "Notas/Engenharia.md": {
-      "icon": "lucide-notebook-pen"
-    },
     "Notas/FPGA.md": {
       "icon": "lucide-notebook-pen"
     },
@@ -62,25 +59,22 @@
     "Notas/Leis de Newton.md": {
       "icon": "lucide-notebook-pen"
     },
+    "Notas/Mapas": {
+      "icon": "lucide-map"
+    },
+    "Notas/Mapas/Propriedades de projeto de software.md": {
+      "icon": "lucide-map-pinned"
+    },
     "Notas/Memória Cache.md": {
       "icon": "lucide-notebook-pen"
     },
     "Notas/Mêcanica Newtoniana.md": {
       "icon": "lucide-notebook-pen"
     },
-    "Notas/Notas sobre o artigo Inteligência Artificial na Educação e Ética.md": {
-      "icon": "lucide-notebook-pen"
-    },
     "Notas/Notação assintótica para funções.md": {
       "icon": "lucide-notebook-pen"
     },
-    "Notas/Notes Overview.base": {
-      "icon": "lucide-database"
-    },
     "Notas/PLB.md": {
-      "icon": "lucide-notebook-pen"
-    },
-    "Notas/Propriedades de projeto de software.md": {
       "icon": "lucide-notebook-pen"
     },
     "Notas/Refs": {
@@ -106,6 +100,12 @@
     },
     "Notas/ocultamento de informação.md": {
       "icon": "lucide-notebook-pen"
+    },
+    "Notas/word.md": {
+      "icon": "lucide-notebook-pen"
+    },
+    "Notes Overview.base": {
+      "icon": "lucide-database"
     },
     "README.md": {
       "icon": "lucide-book-alert"
@@ -151,6 +151,21 @@
   "tagIcons": {},
   "propertyIcons": {},
   "ribbonIcons": {},
-  "fileRules": [],
+  "fileRules": [
+    {
+      "id": "3xKjP",
+      "name": "notes",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "property:type",
+          "operator": "allAre",
+          "value": "nota"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-notebook-pen"
+    }
+  ],
   "folderRules": []
 }

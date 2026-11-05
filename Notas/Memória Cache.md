@@ -4,6 +4,8 @@ tags:
 aliases:
   - cache
 creation: 2025-11-13T15:02:00
+type:
+  - nota
 ---
 # Overview
 

@@ -5,6 +5,8 @@ tags:
   - cache
 aliases:
 creation: 2026-11-03T22:05:00
+type:
+  - nota
 ---
 # Overview
 ***Cache Blocking*** é uma técnica de optimização de matrizes grandes ou que requerem acesso por coluna, aproveitando a localidade espacial e temporal de um cache.

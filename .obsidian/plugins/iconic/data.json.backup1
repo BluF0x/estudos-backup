@@ -32,17 +32,80 @@
     "Notas": {
       "icon": "lucide-pen-box"
     },
+    "Notas/Cache Blocking.md": {
+      "icon": "lucide-notebook-pen"
+    },
+    "Notas/Circuito Digital.md": {
+      "icon": "lucide-notebook-pen"
+    },
     "Notas/Diarias": {
       "icon": "lucide-calendar-clock"
     },
+    "Notas/FPGA.md": {
+      "icon": "lucide-notebook-pen"
+    },
     "Notas/Fichamentos": {
       "icon": "lucide-notebook-text"
+    },
+    "Notas/Fichamentos/Engenharia de software moderna.md": {
+      "icon": "lucide-notebook-text"
+    },
+    "Notas/Fichamentos/Inteligência Artificial na Educação e Ética.md": {
+      "icon": "lucide-notebook-text"
+    },
+    "Notas/HDL.md": {
+      "icon": "lucide-notebook-pen"
+    },
+    "Notas/Leis de Newton.md": {
+      "icon": "lucide-notebook-pen"
+    },
+    "Notas/Mapas": {
+      "icon": "lucide-map"
+    },
+    "Notas/Mapas/Propriedades de projeto de software.md": {
+      "icon": "lucide-map-pinned"
+    },
+    "Notas/Memória Cache.md": {
+      "icon": "lucide-notebook-pen"
+    },
+    "Notas/Mêcanica Newtoniana.md": {
+      "icon": "lucide-notebook-pen"
+    },
+    "Notas/Notação assintótica para funções.md": {
+      "icon": "lucide-notebook-pen"
+    },
+    "Notas/PLB.md": {
+      "icon": "lucide-notebook-pen"
     },
     "Notas/Refs": {
       "icon": "lucide-arrow-big-left"
     },
     "Notas/Revisão": {
       "icon": "lucide-refresh-ccw-dot"
+    },
+    "Notas/Testes de Primalidade.md": {
+      "icon": "lucide-notebook-pen"
+    },
+    "Notas/acoplamento.md": {
+      "icon": "lucide-notebook-pen"
+    },
+    "Notas/coesão.md": {
+      "icon": "lucide-notebook-pen"
+    },
+    "Notas/integridade conceitual.md": {
+      "icon": "lucide-notebook-pen"
+    },
+    "Notas/interface.md": {
+      "icon": "lucide-notebook-pen"
+    },
+    "Notas/ocultamento de informação.md": {
+      "icon": "lucide-notebook-pen"
+    },
+    "Notes Overview.base": {
+      "icon": "lucide-database"
+    },
+    "README.md": {
+      "icon": "lucide-book-alert"
     },
     "Source": {
       "icon": "lucide-file-digit"
@@ -53,8 +116,11 @@
     "assets": {
       "icon": "lucide-images"
     },
+    "assets/Templates/Default.md": {
+      "icon": "lucide-notebook-pen"
+    },
     "pdfs": {
-      "icon": "lucide-file-text"
+      "icon": "lucide-book-open-text"
     },
     "pdfs/Hardware": {
       "icon": "lucide-cog"
